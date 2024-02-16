@@ -1,14 +1,14 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#800080&height=120&section=header&text=Lucas Valdenio&fontsize=30&fontcolor=#800080=35"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8B008B&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=C0C0C0&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Lucas+Valdênio;I'm+25+years+old;I+am+from+Arcoverde,+PE;I+study+Full+stack+development+at+DevClub;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8B008B&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Lucas+Valdênio;I'm+25+years+old;I+am+from+Arcoverde,+PE;I+study+Full+stack+development+at+DevClub;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Valdeniodev&show_icons=true&count_private=true&hide_border=true&title_color=CCCCFF&icon_color=CCCCFF&text_color=D0D3D4&bg_color=0d1117"alt="Lucas Valdenio github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Valdeniodev&layout=compact&hide_border=true&title_color=CCCCFF&text_color=D0D3D4&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Valdeniodev&show_icons=true&count_private=true&hide_border=true&title_color=9ACD32&icon_color=9ACD32&text_color=F8F8FF&bg_color=0d1117" alt="Lucas Valdenio github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Valdeniodev&layout=compact&hide_border=true&title_color=9ACD32&text_color=9ACD32&bg_color=0d1117" />
 </div>
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Valdeniodev&bg_color=0d1117&color=CCCCFF&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Valdeniodev&bg_color=0d1117&color=9ACD32&line=8B008B&point=9ACD32&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=MatheusAlvarez&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
